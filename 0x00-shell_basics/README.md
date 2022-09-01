@@ -1,1 +1,1 @@
-Display the contents list of your current directory in a long format
+move tbe file betth from /tmp to /tmp/my_first_directory
