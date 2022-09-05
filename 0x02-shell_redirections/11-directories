@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d -name . | wcc _|
+find . -mindepth 1 -type d | wc -1
